@@ -6,4 +6,3 @@ In the graph the x-axis represents time, and the y-axis represents voltage. The 
 Notes:
 The specific values of the components and the input signal will determine the gain and frequency response of the amplifier.
 This README provides a basic description. Further analysis, such as calculating gain and bandwidth, can be performed based on the component values and simulation results. For, example, a PDF of the calculation was also added.
-hows now
